@@ -1,0 +1,20 @@
+{
+  "name": "funprac2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srosebattles/funprac2.git"
+  },
+  "keywords": [],
+  "author": "Sarah Rose Battles <srosebattles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srosebattles/funprac2/issues"
+  },
+  "homepage": "https://github.com/srosebattles/funprac2#readme"
+}
